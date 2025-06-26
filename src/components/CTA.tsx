@@ -73,9 +73,9 @@ const CTA: React.FC = () => {
                   </div>
                 </div>
                 <div className="text-center mb-6">
-                  <span className="text-sm line-through text-slate-500 block mb-1">De R$ 349,90</span>
+                  <span className="text-sm line-through text-slate-500 block mb-1">De R$ 749,90</span>
                   <div className="flex items-center justify-center gap-3">
-                    <span className="text-4xl font-bold text-accent-600">R$ 289,80</span>
+                    <span className="text-4xl font-bold text-accent-600">R$ 489,80</span>
                     <span className="text-sm bg-accent-100 text-accent-700 px-2 py-1 rounded-full font-semibold">-17% OFF</span>
                   </div>
                   <span className="text-sm text-slate-600 block mt-2">em até 12x</span>
@@ -107,7 +107,7 @@ const CTA: React.FC = () => {
                     <span>Restam apenas <b>23 unidades</b> em estoque!</span>
                   </p>
                 </div>
-                <a href="https://seguro.lojasoluz.com/r/jY974n5QQ2X9dG586" className="w-full py-6 px-8 bg-accent-600 hover:bg-accent-700 text-white rounded-2xl font-bold text-xl shadow-lg hover:shadow-xl transition-all duration-300 flex items-center justify-center gap-3 mb-6">
+                <a href="https://seguro.lojasoluz.com/r/s44Gb704f3m7tQ8" className="w-full py-6 px-8 bg-accent-600 hover:bg-accent-700 text-white rounded-2xl font-bold text-xl shadow-lg hover:shadow-xl transition-all duration-300 flex items-center justify-center gap-3 mb-6">
                   <ShoppingCart className="w-7 h-7" />
                   <span>Quero Garantir a Minha Agora!</span>
                 </a>
